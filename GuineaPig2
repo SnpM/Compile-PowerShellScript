@@ -1,0 +1,3 @@
+function EchoOink() {
+    write-host "Oink"
+}
