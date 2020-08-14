@@ -1,7 +1,3 @@
-function EchoHai() {
-    write-host "hai"
-}
-
-function EchoParam($parm) {
+function Dependency($parm) {
     write-host $parm
 }
