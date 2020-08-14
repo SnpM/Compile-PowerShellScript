@@ -1,3 +1,1 @@
-function Dependency($parm) {
-    write-host $parm
-}
+$global:oink = "!OIIINNNNKKKK!"

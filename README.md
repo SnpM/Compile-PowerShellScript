@@ -2,8 +2,8 @@
 Compiles multiple PowerShell scripts into one script. Example:
 
 ```
-Compile-PowerShellScript -FilePath gueniapig1.ps1 gueniapig2.ps1 -SaveAs gueniapigs.ps1
+Compile-PowerShellScript -FilePath guineapig1.ps1 guineapig2.ps1 -SaveAs guineapigs.ps1
 ...
-.\gueniapigs.ps1
+.\guineapigs.ps1
 EchoOink
 ```

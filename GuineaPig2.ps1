@@ -1,4 +1,4 @@
 function EchoOink() {
-    # Requires GuineaPig1.ps1's Dependency function to be loaded 
-    Dependency "Oink"
+    # Requires GuineaPig1.ps1's $global:Oink variable to be loaded 
+    echo $global:Oink
 }
